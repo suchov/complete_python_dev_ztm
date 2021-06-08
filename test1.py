@@ -30,3 +30,8 @@ print((20 - 3) + 2 ** 2)
 # * /
 # + -
 
+# binary representation of something 
+print(bin(5))
+
+# back to an int from a binary
+print(int('0b101', 2))
