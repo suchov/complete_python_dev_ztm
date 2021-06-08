@@ -48,3 +48,4 @@ print(id)
 
 # constants - jsut a variables rules but with uppercase
 PI = 3.14
+a,b,c = 1,2,3 # rapid assignment
