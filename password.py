@@ -6,4 +6,4 @@ pass_length = len(passowrd)
 username = "Artem"
 
 
-print(f'{username}, you passowrd {passowrd} is {pass_length} and the secret is {secret}')
+print(f'{username}, you passowrd {"*" * pass_length} is {pass_length} and the secret is {secret}')
