@@ -5,4 +5,8 @@ https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lec
 Immutability:
 https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15824300#overview
 
+Basics 2:
+https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837986#overview
+
+
 
