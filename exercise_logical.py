@@ -6,7 +6,7 @@ is_expert = True
 if is_magician and is_expert:
     print("you are the master magician")
 # check if magician but not expert: "at least you are getting there"
-elif is_magician or is_expert:
+elif is_magician and not is_expert:
     print("at least you are getting there")
 # if you not a magician print: "you need magic powers"
 else:
