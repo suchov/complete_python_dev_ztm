@@ -8,5 +8,5 @@ https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lec
 Basics 2:
 https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15837986#overview
 
-
+Loops, iterables
 
