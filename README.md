@@ -11,3 +11,7 @@ https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lec
 Loops, iterables
 Cool practice and some exercvises
 https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/16016652#overview
+
+Enumerate is quite intersting - adding index to something we iterating on
+https://realpython.com/python-enumerate/#using-pythons-enumerate
+
